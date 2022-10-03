@@ -6,9 +6,10 @@ const AboutPage = () => {
         alt="" 
         srcset="" 
       />
-      <h3 style={{"marginTop":"30px"}}>About Me</h3>
-      <p style={{"marginTop":"30px"}}>
-        i'am a web developer enthusiast. Always seeking for a new experience through a case study to solve a problem. <br /> Also, learning a new thing like latest popular framework is fun for me
+      <h5 style={{"marginTop":"30px"}}> <i>Hello, Glad to see you here</i> </h5>
+      <h3 style={{"marginTop":"10px"}}>My name is <b>Windy</b> Puji Oktiagraha</h3>
+      <p style={{"marginTop":"30px"}}> 
+        I'm a web developer enthusiast. Always seeking for a new experience through a case study to solve a problem. <br /> Also, learning a new thing like latest popular framework is fun for me
       </p>
 
       <h3 style={{"marginTop":"50px",}}> Stack</h3>
