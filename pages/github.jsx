@@ -23,6 +23,10 @@ const GithubPage = ({ repos, user }) => {
   );
 };
 
-
+export async function getStaticProps() {
+  return {
+    props: { title: 'Github' },
+  };
+}
 
 export default GithubPage;
